@@ -13,7 +13,7 @@ function infoDetailsMenuFunc(){
   createCard('Chinese food',2);
   createCard('Italian food',3);
   createCard('Sweets and Shakes',4);
-  createCard('Ice cream',5);
+  // createCard('Ice cream',5);
 
 
 }
